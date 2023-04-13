@@ -1,2 +1,5 @@
-# flutter_demo
-Demo of Flutter and Amplify
+# amplify_demo
+
+A new Flutter project.
+
+Demo for Flutter App using Amplify
